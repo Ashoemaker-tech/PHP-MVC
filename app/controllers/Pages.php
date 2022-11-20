@@ -5,10 +5,10 @@ class Pages extends Controller {
     }
     
     public function index() {
-        $this->view('index');
+        $this->view('pages/index', ['title' => 'Welcome']);
     }
 
     public function about() {
-
+        $this->view('pages/about');
     }
 }
