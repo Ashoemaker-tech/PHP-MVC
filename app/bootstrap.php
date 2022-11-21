@@ -1,5 +1,4 @@
 <?php
-
 // Load Configuration
 require_once 'config/config.php';
 
