@@ -3,3 +3,8 @@
 
   // Init Core Library
   $init = new Core;
+
+?>
+
+
+<h1>test</h1>
